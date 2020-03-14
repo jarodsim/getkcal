@@ -29,6 +29,11 @@ header {
   justify-content: center;
 }
 
+footer {
+  text-align: center;
+  font-style: italic;
+}
+
 .form-group {
   display: flex;
   flex-direction: column;
